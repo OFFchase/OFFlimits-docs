@@ -1,4 +1,4 @@
-<script setup>
+<script lang="js" setup>
 window.yaContextCb.push(() => {
   Ya.Context.AdvManager.render({
     blockId: "R-A-8300744-1",
