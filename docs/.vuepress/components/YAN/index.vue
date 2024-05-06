@@ -9,14 +9,12 @@
     <div id="yandex_rtb_R-A-8300744-1"></div>
   </div>
   <script>
-    () => {
-      window.yaContextCb.push(() => {
-        Ya.Context.AdvManager.render({
-          blockId: "R-A-8300744-1",
-          renderTo: "yandex_rtb_R-A-8300744-1",
-        });
+    window.yaContextCb.push(() => {
+      Ya.Context.AdvManager.render({
+        blockId: "R-A-8300744-1",
+        renderTo: "yandex_rtb_R-A-8300744-1",
       });
-    };
+    });
   </script>
 </template>
 
