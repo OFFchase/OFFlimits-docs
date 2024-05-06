@@ -6,6 +6,8 @@ This page demonstrates how to use [OFFlimits bot](https://discord.com/oauth2/aut
 
 `Setboard` is a slash command that allows you to edit and create beautiful results leaderboards.
 
+<YandexAD></YandexAD>
+
 ## Requirements
 
 Before using the command you have to setup OFFlimits bot in your

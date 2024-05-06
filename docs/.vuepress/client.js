@@ -17,6 +17,7 @@ import {
 import { DiscordDropdown, DiscordDropdownOption } from "./components/discord";
 import config from "../config";
 import "./components/message/vue/dister/style.css";
+import { YandexAD } from "./components/YAN";
 
 export default defineClientConfig({
   enhance({ app }) {
@@ -39,6 +40,7 @@ export default defineClientConfig({
       },
     });
 
+    app.component("YandexAD", YandexAD);
     app.component("DiscordDropdownOption", DiscordDropdownOption);
     app.component("DiscordDropdown", DiscordDropdown);
     app.component("DiscordButton", DiscordButton);
