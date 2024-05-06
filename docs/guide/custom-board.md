@@ -1,3 +1,10 @@
+<head>
+    <script>
+      window.yaContextCb = window.yaContextCb || [];
+    </script>
+    <script src="https://yandex.ru/ads/system/context.js" async></script>
+  </head>
+
 # Custom Board
 
 This page demonstrates how to use [OFFlimits bot](https://discord.com/oauth2/authorize?client_id=728332591790293044&scope=bot+applications.commands&permissions=268445752&client_id=728332591790293044) to customize amazing results layouts.
@@ -227,4 +234,4 @@ use the command [images](/guide/images) to add images, and specify the pack name
 All the names have to match.
 :::
 
-The **winner** pack only displays the image of the 1st player / team. You cannot change the name of this pack. 
+The **winner** pack only displays the image of the 1st player / team. You cannot change the name of this pack.
