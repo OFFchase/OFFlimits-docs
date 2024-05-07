@@ -5,11 +5,6 @@
     <script src="https://yandex.ru/ads/system/context.js" async></script>
 </head>
 
----
-prev:
-	text: Guide
-	link: /guide
----
 
 # Setup
 
