@@ -13,3 +13,8 @@ Click on the link to start using the bot right away: [https://t.me/OFFlimits_bot
 You can create your own custom copy of the telegram bot, and unlock many premium features like using [custom boards](/telegram/board) and [slots](/telegram/slots) and adding logos and flags.
 
 For more information contact [@azcmin](https://t.me/azcmin)
+
+## Related Topics
+
+- [How to calculate results](/telegram/results)
+- [How to get image results](/telegram/board)
