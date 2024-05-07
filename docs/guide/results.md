@@ -17,7 +17,7 @@ customized [setpoints](/guide/points-system).
 Later after using the command, the outcome can be used to generate
 beautiful results images [board](/guide/board).
 
-<YandexAD></YandexAD>
+<YandexAD :blockId="R-A-8300744-1"></YandexAD>
 
 Results command can be used in any channel or thread that has the word `results` in its name, and can be used in multiple channels to calculate different results.
 
@@ -91,7 +91,7 @@ Team-Two 10 5 1 12
 
 ## Outcome
 
-<YandexAD></YandexAD>
+<YandexAD :blockId="R-A-8300744-1"></YandexAD>
 
 After a few seconds the bot will send a leaderboard table in `#results-bot` channel.
 

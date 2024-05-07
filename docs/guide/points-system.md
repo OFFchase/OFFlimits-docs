@@ -13,7 +13,7 @@ This page demonstrates how to set a custom points system for [OFFlimits bot](htt
 
 This feature allows you to create a custom points system to calculate the results the way you want.
 
-<YandexAD></YandexAD>
+<YandexAD :blockId="R-A-8300744-1"></YandexAD>
 
 ## Usage
 

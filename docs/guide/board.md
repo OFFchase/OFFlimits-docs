@@ -13,7 +13,7 @@ This page demonstrates how to use [OFFlimits bot](https://discord.com/oauth2/aut
 
 Board is a slash command that generates beautiful leaderboard designs and images
 
-<YandexAD></YandexAD>
+<YandexAD :blockId="R-A-8300744-1"></YandexAD>
 
 ## Requirements
 

@@ -13,7 +13,7 @@ This page demonstrates how to use [OFFlimits bot](https://discord.com/oauth2/aut
 
 `Setboard` is a slash command that allows you to edit and create beautiful results leaderboards.
 
-<YandexAD></YandexAD>
+<YandexAD :blockId="R-A-8300744-1"></YandexAD>
 
 ## Requirements
 
@@ -212,7 +212,7 @@ If replied with no, you will have to setup every text for the current team separ
 
 You can customize your leaderboard by adding custom images to it. To understand how images packs work:
 
-<img style="max-width:100%;width:400px;" alt="OFFlimits fonts" src="https://media.discordapp.net/attachments/934733578544226345/1130951742142550067/file.jpg"/>
+<img style="max-width:100%;width:400px;" alt="OFFlimits fonts" src="https://offlimitsbot.com/static/media/babayaga-table.b39c2aab266de2e69cd1.png"/>
 
 This leaderboard example has 5 images packs
 
