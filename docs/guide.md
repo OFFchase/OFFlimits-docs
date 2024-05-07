@@ -1,10 +1,3 @@
-<head>
-    <script>
-      window.yaContextCb = window.yaContextCb || [];
-    </script>
-    <script src="https://yandex.ru/ads/system/context.js" async></script>
-  </head>
-
 ---
 prev:
   text: Getting started
@@ -13,6 +6,13 @@ next:
   text: Setup
   link: /guide/setup
 ---
+
+<head>
+    <script>
+      window.yaContextCb = window.yaContextCb || [];
+    </script>
+    <script src="https://yandex.ru/ads/system/context.js" async></script>
+  </head>
 
 # Guide
 
