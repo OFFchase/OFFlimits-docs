@@ -7,16 +7,11 @@ next:
   link: /guide/setup
 ---
 
-<head>
-    <script>
-      window.yaContextCb = window.yaContextCb || [];
-    </script>
-    <script src="https://yandex.ru/ads/system/context.js" async></script>
-  </head>
-
 # Guide
 
 This section features links to detailed documentation on how to use [OFFlimits bot](https://discord.com/oauth2/authorize?client_id=728332591790293044&scope=bot+applications.commands&permissions=268445752&client_id=728332591790293044) to calculate results and create amazing results boards in a matter of few seconds.
+
+<YandexAD blockId='R-A-8300744-4'></YandexAD>
 
 - Guide
   - [How to setup OFFlimits bot](/guide/setup)

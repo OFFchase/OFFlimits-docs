@@ -90,7 +90,7 @@ Send the command `/setboard customize text`.
 
 <DiscordMessage :bot="true" profile="bot">
 <DiscordMarkdown>
-<img style="max-width:100%;width:500px;" alt="OFFlimits fonts" src="https://media.discordapp.net/attachments/797403983185575986/868862350915145788/OFFlimits-events.png"/>
+<img style="max-width:100%;width:500px;" alt="OFFlimits fonts" src="https://firebasestorage.googleapis.com/v0/b/offlimits-bot.appspot.com/o/boards%2Fboard4%2FOFFlimits-events.png?alt=media"/>
 </DiscordMarkdown>
 </DiscordMessage>
 			<DiscordButtons>
