@@ -1,10 +1,3 @@
-<head>
-    <script>
-      window.yaContextCb = window.yaContextCb || [];
-    </script>
-    <script src="https://yandex.ru/ads/system/context.js" async></script>
-</head>
-
 # Results
 
 This page demonstrates how to use [OFFlimits bot](https://discord.com/oauth2/authorize?client_id=728332591790293044&scope=bot+applications.commands&permissions=268445752&client_id=728332591790293044) to calculate results.
@@ -17,7 +10,7 @@ customized [setpoints](/guide/points-system).
 Later after using the command, the outcome can be used to generate
 beautiful results images [board](/guide/board).
 
-<YandexAD :blockId="R-A-8300744-1"></YandexAD>
+<YandexAD blockId='R-A-8300744-4'></YandexAD>
 
 Results command can be used in any channel or thread that has the word `results` in its name, and can be used in multiple channels to calculate different results.
 

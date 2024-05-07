@@ -36,6 +36,7 @@ export default defineUserConfig({
       },
     ],
     ["meta", { name: "msapplication-TileColor", content: "#000000" }],
+    ["script", { src: "https://yandex.ru/ads/system/context.js", async: true }],
   ],
   theme: defaultTheme({
     logo: config.OFFlimits_logo,

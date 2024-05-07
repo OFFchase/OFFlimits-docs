@@ -10,6 +10,8 @@ This command is used to add team and players logos to be added to the board desi
 This command is subject to deletion since it was replaced with the command [/images](/guide/images) that has more options.
 :::
 
+<YandexAD blockId='R-A-8300744-2'></YandexAD>
+
 ## Requirements
 
 - png / jpg / jpeg logo format.

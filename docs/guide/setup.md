@@ -1,10 +1,3 @@
-<head>
-    <script>
-      window.yaContextCb = window.yaContextCb || [];
-    </script>
-    <script src="https://yandex.ru/ads/system/context.js" async></script>
-</head>
-
 ---
 prev:
 	text: Guide
@@ -19,7 +12,7 @@ This page demonstrates how to setup [OFFlimits bot](https://discord.com/oauth2/a
 OFFlimits setup is required to be able to use [OFFlimits bot](https://discord.com/oauth2/authorize?client_id=728332591790293044&scope=bot+applications.commands&permissions=268445752&client_id=728332591790293044) in your server.
 Setup can be done using prefixed command `+setup` or slash command `/setup`.
 
-<YandexAD :blockId="R-A-8300744-1"></YandexAD>
+<YandexAD blockId='R-A-8300744-1'></YandexAD>
 
 ## Requirements
 

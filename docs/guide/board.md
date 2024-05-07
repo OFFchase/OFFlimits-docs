@@ -1,10 +1,3 @@
-<head>
-    <script>
-      window.yaContextCb = window.yaContextCb || [];
-    </script>
-    <script src="https://yandex.ru/ads/system/context.js" async></script>
-</head>
-
 # Board
 
 This page demonstrates how to use [OFFlimits bot](https://discord.com/oauth2/authorize?client_id=728332591790293044&scope=bot+applications.commands&permissions=268445752&client_id=728332591790293044) to generate amazing results layouts.
@@ -13,7 +6,7 @@ This page demonstrates how to use [OFFlimits bot](https://discord.com/oauth2/aut
 
 Board is a slash command that generates beautiful leaderboard designs and images
 
-<YandexAD :blockId="R-A-8300744-1"></YandexAD>
+<YandexAD blockId="R-A-8300744-1"></YandexAD>
 
 ## Requirements
 

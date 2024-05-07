@@ -6,6 +6,9 @@
     "preview": "vuepress preview docs"
   },
   "eslintConfig": {
+    "env": {
+      "vue/setup-compiler-macros": true
+    },
     "globals": {
       "window": true
     }
