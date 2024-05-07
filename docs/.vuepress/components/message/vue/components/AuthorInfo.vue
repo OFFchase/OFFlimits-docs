@@ -4,7 +4,7 @@
 			{{ author }}
 		</span>
 		<span v-if="bot" class="discord-author-bot-tag">
-			Bot
+			APP
 		</span>
 	</span>
 </template>
