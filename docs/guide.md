@@ -20,8 +20,7 @@ This section features links to detailed documentation on how to use [OFFlimits b
 
 <YandexAD></YandexAD>
 
-## Docs map
-
+___
 - Guide
   - [How to setup OFFlimits bot](/guide/setup)
   - [How to calculate results](/guide/results)
@@ -31,4 +30,4 @@ This section features links to detailed documentation on how to use [OFFlimits b
 - Api
   - [how to use OFFlimits api to calculate results with your own bot](/api/results)
   - [how to use OFFlimits api to generate boards with your own bot](/api/board)
-
+___
