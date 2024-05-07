@@ -14,7 +14,6 @@ This page demonstrates how to use [OFFlimits bot](https://discord.com/oauth2/aut
 Results is a slash command that is used to calculate games results
 and sort teams according to a specific points system that can be
 customized [setpoints](/guide/points-system).
-
 Later after using the command, the outcome can be used to generate
 beautiful results images [board](/guide/board).
 
