@@ -11,7 +11,7 @@ export default defineUserConfig({
   title: "OFFlimits docs",
   description: "MultiFunction bot for scrims and tournaments",
   head: [
-    ["link", { rel: "icon", href: `../images/OFFlimits.png` }],
+    ["link", { rel: "icon", href: `../../images/OFFlimits.png` }],
     ["link", { rel: "manifest", href: "/manifest.json" }],
     ["meta", { name: "theme-color", content: "#3eaf7c" }],
     ["meta", { name: "apple-mobile-web-app-capable", content: "yes" }],
@@ -19,7 +19,7 @@ export default defineUserConfig({
       "meta",
       { name: "apple-mobile-web-app-status-bar-style", content: "black" },
     ],
-    ["link", { rel: "apple-touch-icon", href: `../images/OFFlimits.png` }],
+    ["link", { rel: "apple-touch-icon", href: `../../images/OFFlimits.png` }],
     [
       "link",
       {

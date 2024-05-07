@@ -18,12 +18,22 @@ const sidebar = {
       ],
     },
     {
+      text: "Telegram",
+      collapsible: true,
+      children: [
+        "/telegram/introduction",
+        "/telegram/results",
+        "/telegram/board",
+        "/telegram/slots",
+      ],
+    },
+    {
       text: "Api",
       collapsible: true,
       children: ["/api/results", "/api/board"],
     },
-    {text: "Dashboard", link: "https://offlimitsbot.com/dashboard"},
-    {text: "Support Server", link: "https://discord.gg/QcbuxZacdu"},
+    { text: "Dashboard", link: "https://offlimitsbot.com/dashboard" },
+    { text: "Support Server", link: "https://discord.gg/QcbuxZacdu" },
   ],
 };
 
