@@ -1,15 +1,15 @@
+---
+prev:
+	text: Guide
+	link: /guide
+---
+
 <head>
     <script>
       window.yaContextCb = window.yaContextCb || [];
     </script>
     <script src="https://yandex.ru/ads/system/context.js" async></script>
 </head>
-
----
-prev:
-	text: Guide
-	link: /guide
----
 
 # Setup
 
@@ -21,7 +21,10 @@ OFFlimits setup is required to be able to use [OFFlimits bot](https://discord.co
 Setup can be done using prefixed command `+setup` or slash command `/setup`.
 
 ---
+
 <YandexAD></YandexAD>
+
+---
 
 ## Requirements
 
