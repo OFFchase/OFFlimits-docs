@@ -20,14 +20,13 @@ This section features links to detailed documentation on how to use [OFFlimits b
 
 <YandexAD></YandexAD>
 
-___
 - Guide
   - [How to setup OFFlimits bot](/guide/setup)
   - [How to calculate results](/guide/results)
   - [How to print results](/guide/board)
   - [How set points system](/guide/points-system)
   - [How set custom board design](/guide/custom-board)
+
 - Api
   - [how to use OFFlimits api to calculate results with your own bot](/api/results)
   - [how to use OFFlimits api to generate boards with your own bot](/api/board)
-___
